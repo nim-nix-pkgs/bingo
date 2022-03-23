@@ -4,7 +4,7 @@
   "method": "git",
   "tags": [
     {
-      "desc": "Binary serialization framework",
+      "description": "Binary serialization framework",
       "license": "MIT",
       "name": "bingo",
       "ref": "refs/tags/v0.0.1",
@@ -12,7 +12,7 @@
       "version": "v0_0_1"
     },
     {
-      "desc": "Binary serialization framework",
+      "description": "Binary serialization framework",
       "license": "MIT",
       "name": "bingo",
       "ref": "refs/tags/v0.1.0",
@@ -20,7 +20,7 @@
       "version": "v0_1_0"
     },
     {
-      "desc": "Binary serialization framework",
+      "description": "Binary serialization framework",
       "license": "MIT",
       "name": "bingo",
       "ref": "refs/tags/v0.2.0",
