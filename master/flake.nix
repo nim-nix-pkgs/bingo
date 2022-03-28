@@ -11,7 +11,6 @@
   inputs.src-bingo-master.ref   = "refs/heads/master";
   inputs.src-bingo-master.owner = "planetis-m";
   inputs.src-bingo-master.repo  = "bingo";
-  inputs.src-bingo-master.dir   = "";
   inputs.src-bingo-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
