@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/planetis-m/bingo",
   "refs": [
-    "fatal: unable to access 'https://github.com/planetis-m/bingo/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/planetis-m/bingo/': OpenSSL SSL_read: Connection timed out, errno 110",
     ""
   ],
   "heads": []
